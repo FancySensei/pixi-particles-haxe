@@ -1,6 +1,6 @@
-Pixi Particles Haxe Externs
+Pixi Particles Haxe Externs [![Build Status](https://travis-ci.org/Rollo-Liu/pixi-particles-haxe.svg?branch=master)](https://travis-ci.org/Rollo-Liu/pixi-particles-haxe)
 ============
-A haxe externs for Pixi Particles.
+A haxe externs for [Pixi Particles](http://github.com/CloudKidStudio/PixiParticles).
 
 ## Installation ##
 Pixi Particles Haxe can be installed via Haxelib:
