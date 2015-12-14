@@ -1,0 +1,9 @@
+-cp cloudkid
+-cp samples/test
+
+-lib pixijs
+-lib jsfps
+
+-main Main
+
+-js samples/output/test.js

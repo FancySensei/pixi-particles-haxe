@@ -1,0 +1,25 @@
+{
+	"name": "pixi-particles",
+	"url": "http://github.com/Rollo-Liu/pixi-particles-haxe",
+	"license": "MIT",
+	"tags": [
+		"js",
+		"haxe",
+		"particle",
+		"extern",
+		"pixi",
+		"pixi.js",
+		"pixijs",
+		"cloudkid",
+		"web"
+	],
+	"description": "A haxe externs for PixiParticles. http://github.com/CloudKidStudio/PixiParticles",
+	"version": "1.0.0",
+	"releasenote": "Initial release. Enjoy!",
+	"contributors": [
+		"rollo-liu"
+	],
+	"dependencies": {
+		"pixijs": ""
+	}
+}
