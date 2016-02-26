@@ -1,7 +1,7 @@
 -cp cloudkid
 -cp samples/test
 
--lib pixijs
+-lib pixijs:3.0.31
 -lib jsfps
 
 -main Main
