@@ -305,7 +305,7 @@ extern class Emitter
 	 * Destroys the emitter and all of its particles.
 	 * @method destroy
 	 */
-	public function destory():Void;
+	public function destroy():Void;
 	
 	/**
 	 * Sets up the emitter based on the config settings.
