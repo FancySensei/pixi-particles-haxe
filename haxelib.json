@@ -14,8 +14,8 @@
 		"web"
 	],
 	"description": "A haxe externs for PixiParticles. http://github.com/CloudKidStudio/PixiParticles",
-	"version": "1.0.0",
-	"releasenote": "Initial release. Enjoy!",
+	"version": "1.0.1",
+	"releasenote": "Fixed a typo.",
 	"contributors": [
 		"rollo-liu"
 	],
