@@ -1,6 +1,7 @@
 package cloudkid;
 import pixi.core.textures.Texture;
 
+@:native("PIXI.particles.PathParticle")
 extern class PathParticle
 {
 	/**
