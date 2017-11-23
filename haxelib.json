@@ -14,10 +14,11 @@
 		"web"
 	],
 	"description": "A haxe externs for PixiParticles. http://github.com/CloudKidStudio/PixiParticles",
-	"version": "1.0.1",
-	"releasenote": "Fixed a typo.",
+	"version": "1.0.2",
+	"releasenote": "Set native classes.",
 	"contributors": [
-		"rollo-liu"
+		"rollo-liu",
+		"AxGord"
 	],
 	"dependencies": {
 		"pixijs": ""
