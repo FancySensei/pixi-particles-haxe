@@ -1,6 +1,7 @@
 package cloudkid;
 import pixi.core.textures.Texture;
 
+@:native("PIXI.particles.AnimatedParticle")
 extern class AnimatedParticle
 {
 	/**

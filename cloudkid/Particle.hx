@@ -2,6 +2,7 @@ package cloudkid;
 import pixi.core.math.Point;
 import pixi.core.textures.Texture;
 
+@:native("PIXI.particles.Particle")
 extern class Particle
 {
 	/**

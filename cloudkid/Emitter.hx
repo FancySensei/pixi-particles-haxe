@@ -5,6 +5,7 @@ import pixi.core.math.shapes.Circle;
 import pixi.core.math.shapes.Rectangle;
 import pixi.core.textures.Texture;
 
+@:native("PIXI.particles.Emitter")
 extern class Emitter
 {
 	/**
